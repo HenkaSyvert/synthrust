@@ -1,0 +1,2 @@
+# synthrust
+synth in rust
